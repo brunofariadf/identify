@@ -18,7 +18,7 @@ You can install the released version of rpkg from [CRAN](https://CRAN.R-project.
 Or install the development version of github:
 
 ```
-remotes::install_github("brunofariadf/package/identify")
+remotes::install_github("brunofariadf/identify")
 ```
 
 # Usage
