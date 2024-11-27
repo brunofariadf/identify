@@ -1,0 +1,20 @@
+Package: identify
+Title: Detect Anomalies for Data Treatment
+Version: 0.0.0.9
+Authors@R: 
+    person(given = "Bruno",
+           family = "Faria",
+           role = c("aut", "cre"),
+           email = "brunofariadf@gmail.com",
+           comment = c(ORCID = "0000-0002-1612-3991"))
+Description: detect punctuation, space, empty, accent, and more, as a guide to treatment from data.
+Depends:
+    R (>= 4.1.0)
+Imports: 
+    stringi,
+    fs
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
